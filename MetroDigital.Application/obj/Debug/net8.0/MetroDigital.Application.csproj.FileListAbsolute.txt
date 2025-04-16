@@ -1,0 +1,15 @@
+C:\MetroDigital\MetroDigital.Application\bin\Debug\net8.0\MetroDigital.Application.deps.json
+C:\MetroDigital\MetroDigital.Application\bin\Debug\net8.0\MetroDigital.Application.dll
+C:\MetroDigital\MetroDigital.Application\bin\Debug\net8.0\MetroDigital.Application.pdb
+C:\MetroDigital\MetroDigital.Application\bin\Debug\net8.0\MetroDigital.Domain.dll
+C:\MetroDigital\MetroDigital.Application\bin\Debug\net8.0\MetroDigital.Domain.pdb
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\MetroDigital.Application.csproj.AssemblyReference.cache
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\MetroDigital.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\MetroDigital.Application.AssemblyInfoInputs.cache
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\MetroDigital.Application.AssemblyInfo.cs
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\MetroDigital.Application.csproj.CoreCompileInputs.cache
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\MetroDig.18626D2A.Up2Date
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\MetroDigital.Application.dll
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\refint\MetroDigital.Application.dll
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\MetroDigital.Application.pdb
+C:\MetroDigital\MetroDigital.Application\obj\Debug\net8.0\ref\MetroDigital.Application.dll

@@ -1,0 +1,12 @@
+C:\MetroDigital\MetroDigital.Domain\bin\Debug\net8.0\MetroDigital.Domain.deps.json
+C:\MetroDigital\MetroDigital.Domain\bin\Debug\net8.0\MetroDigital.Domain.dll
+C:\MetroDigital\MetroDigital.Domain\bin\Debug\net8.0\MetroDigital.Domain.pdb
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.AssemblyInfoInputs.cache
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.AssemblyInfo.cs
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.csproj.CoreCompileInputs.cache
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.dll
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\refint\MetroDigital.Domain.dll
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.pdb
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\ref\MetroDigital.Domain.dll
+C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.sourcelink.json
