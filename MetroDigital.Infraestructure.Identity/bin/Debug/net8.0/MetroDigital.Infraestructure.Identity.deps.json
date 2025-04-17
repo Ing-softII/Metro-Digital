@@ -628,18 +628,12 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
         },
         "runtime": {
-          "MetroDigital.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MetroDigital.Application.dll": {}
         }
       },
       "MetroDigital.Domain/1.0.0": {
         "runtime": {
-          "MetroDigital.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MetroDigital.Domain.dll": {}
         }
       },
       "MetroDigital.Infrastructure.Shared/1.0.0": {
@@ -648,10 +642,7 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
         },
         "runtime": {
-          "MetroDigital.Infrastructure.Shared.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "MetroDigital.Infrastructure.Shared.dll": {}
         }
       }
     }

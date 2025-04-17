@@ -1,39 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MetroDigital\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\Metro-Digital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{691E9775-1D26-4F06-8C78-08934BC7C323}|MetroDigital.Presentation.WebApp\\MetroDigital.Presentation.WebApp.csproj|c:\\users\\diego\\source\\repos\\metro-digital\\metrodigital.presentation.webapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691E9775-1D26-4F06-8C78-08934BC7C323}|MetroDigital.Presentation.WebApp\\MetroDigital.Presentation.WebApp.csproj|solutionrelative:metrodigital.presentation.webapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691E9775-1D26-4F06-8C78-08934BC7C323}|MetroDigital.Presentation.WebApp\\MetroDigital.Presentation.WebApp.csproj|c:\\users\\diego\\source\\repos\\metro-digital\\metrodigital.presentation.webapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{691E9775-1D26-4F06-8C78-08934BC7C323}|MetroDigital.Presentation.WebApp\\MetroDigital.Presentation.WebApp.csproj|solutionrelative:metrodigital.presentation.webapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 180,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Metro-Digital\\MetroDigital.Presentation.WebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "MetroDigital.Presentation.WebApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Metro-Digital\\MetroDigital.Presentation.WebApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "MetroDigital.Presentation.WebApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAFcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T02:53:19.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Metro-Digital\\MetroDigital.Presentation.WebApp\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "MetroDigital.Presentation.WebApp\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Metro-Digital\\MetroDigital.Presentation.WebApp\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "MetroDigital.Presentation.WebApp\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T02:30:49.964Z",
+              "EditorCaption": ""
             }
           ]
         }
