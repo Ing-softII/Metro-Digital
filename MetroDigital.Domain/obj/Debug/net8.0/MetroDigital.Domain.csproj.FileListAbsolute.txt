@@ -10,3 +10,15 @@ C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\refint\MetroDigital.Domain.
 C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.pdb
 C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\ref\MetroDigital.Domain.dll
 C:\MetroDigital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.sourcelink.json
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\bin\Debug\net8.0\MetroDigital.Domain.deps.json
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\bin\Debug\net8.0\MetroDigital.Domain.dll
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\bin\Debug\net8.0\MetroDigital.Domain.pdb
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.AssemblyInfoInputs.cache
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.AssemblyInfo.cs
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.sourcelink.json
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.dll
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\refint\MetroDigital.Domain.dll
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\MetroDigital.Domain.pdb
+C:\Users\Diego\Source\Repos\Metro-Digital\MetroDigital.Domain\obj\Debug\net8.0\ref\MetroDigital.Domain.dll

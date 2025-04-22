@@ -3487,24 +3487,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dayne\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Diego\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MetroDigital\\MetroDigital.Presentation.WebApp\\MetroDigital.Presentation.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Presentation.WebApp\\MetroDigital.Presentation.WebApp.csproj",
       "projectName": "MetroDigital.Presentation.WebApp",
-      "projectPath": "C:\\MetroDigital\\MetroDigital.Presentation.WebApp\\MetroDigital.Presentation.WebApp.csproj",
-      "packagesPath": "C:\\Users\\dayne\\.nuget\\packages\\",
-      "outputPath": "C:\\MetroDigital\\MetroDigital.Presentation.WebApp\\obj\\",
+      "projectPath": "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Presentation.WebApp\\MetroDigital.Presentation.WebApp.csproj",
+      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Presentation.WebApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dayne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3518,14 +3513,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\MetroDigital\\MetroDigital.Application\\MetroDigital.Application.csproj": {
-              "projectPath": "C:\\MetroDigital\\MetroDigital.Application\\MetroDigital.Application.csproj"
+            "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Application\\MetroDigital.Application.csproj": {
+              "projectPath": "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Application\\MetroDigital.Application.csproj"
             },
-            "C:\\MetroDigital\\MetroDigital.Infraestructure.Identity\\MetroDigital.Infraestructure.Identity.csproj": {
-              "projectPath": "C:\\MetroDigital\\MetroDigital.Infraestructure.Identity\\MetroDigital.Infraestructure.Identity.csproj"
+            "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Infraestructure.Identity\\MetroDigital.Infraestructure.Identity.csproj": {
+              "projectPath": "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Infraestructure.Identity\\MetroDigital.Infraestructure.Identity.csproj"
             },
-            "C:\\MetroDigital\\MetroDigital.Infrastructure.Persistance\\MetroDigital.Infrastructure.Persistance.csproj": {
-              "projectPath": "C:\\MetroDigital\\MetroDigital.Infrastructure.Persistance\\MetroDigital.Infrastructure.Persistance.csproj"
+            "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Infrastructure.Persistance\\MetroDigital.Infrastructure.Persistance.csproj": {
+              "projectPath": "C:\\Users\\Diego\\Source\\Repos\\Metro-Digital\\MetroDigital.Infrastructure.Persistance\\MetroDigital.Infrastructure.Persistance.csproj"
             }
           }
         }
@@ -3563,7 +3558,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
